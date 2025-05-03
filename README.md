@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PersonalPortifolio
 ### This is my personal portifolio project where i showcase my skills and expertise.
 ## Frameworks
@@ -9,3 +10,7 @@
 ![Alt Text](https://github.com/gorretgolden/PersonalPortifolio/blob/master/images/portifolio2.png?raw=true)
 ![Alt Text](https://github.com/gorretgolden/PersonalPortifolio/blob/master/images/portifolio3.png?raw=true)
 
+=======
+# personalportifolio
+project
+>>>>>>> 5d1b029144d8865acdbcce305c7cbb011582ff98
